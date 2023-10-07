@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I'm Hien!
  📊 I'm a final year undergraduate student at University of Science and Technology of Ha Noi. 
 
 📦 My research experience are in Neutrino Phenomenology and Molecular Cloud
@@ -22,6 +21,9 @@ Hi there, I'm Hien!
 Research (for public)
 ======
 ![Illustration of my interest](/images/HE-Neutrinos.png)
+
+------
+
 Generally my research contributes to the Neutrino Mixing Matrix. My research interests span both obsevational (see figure) and roles of energy of in implementing accelerator. 
 
 Most of my work has been working on the three neutrinos framework, focusing parameter degeneracy problem in T2K experiment. The work are under a fine development for scientific publication (preliminary results presented at 48th Vietnam Conference on Theoretical Physics). 

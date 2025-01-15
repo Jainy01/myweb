@@ -84,7 +84,7 @@ author:
   avatar           : "Myface.png"
   bio              : "Graduate student in Space Science and Satellite Technology interested in software architecture"
   location         : "Ha Noi, Vietnam"
-  employer         : Hola Park
+  # employer         : FPT Asia Pacific
   # pubmed           : 
   # googlescholar    : 
   email            : "hiennt.bi11-077@st.usth.edu.vn"
@@ -154,6 +154,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+minimal_mistakes_skin: neon
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"

@@ -18,9 +18,9 @@ redirect_from:
 
 Research (for public)
 ======
-# ![Illustration of my interest](/images/HE-Neutrinos.png)
+<!-- # ![Illustration of my interest](/images/HE-Neutrinos.png) -->
 
-------
+<!-- ------ -->
 
 Generally my research contributes to the Neutrino Mixing Matrix. My research interests span both obsevational (see figure) and roles of energy of in implementing accelerator. 
 

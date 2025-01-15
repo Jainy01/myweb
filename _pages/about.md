@@ -18,7 +18,7 @@ redirect_from:
 
 Research
 ======
-<!-- # ![Illustration of my interest](/images/HE-Neutrinos.png) -->
+![Illustration of my interest](images/HE-Neutrinos.png)
 
 <!-- ------ -->
 

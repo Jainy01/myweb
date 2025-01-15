@@ -16,7 +16,7 @@ redirect_from:
 
 
 
-Research (for public)
+Research
 ======
 <!-- # ![Illustration of my interest](/images/HE-Neutrinos.png) -->
 

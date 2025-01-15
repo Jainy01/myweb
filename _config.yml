@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nguyen Thi Hien"
   avatar           : "Myface.png"
-  bio              : "Graduate student in Space Science and Satellite Technology interested in software architecture"
+  bio              :  "AI never sleeps, but I do?" #"Graduate student in Space Science and Satellite Technology interested in software architecture" 
   location         : "Ha Noi, Vietnam"
   # employer         : FPT Asia Pacific
   # pubmed           : 

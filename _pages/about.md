@@ -26,23 +26,22 @@ Generally my research contributes to the Neutrino Mixing Matrix. My research int
 
 Most of my work has been working on the three neutrinos framework, focusing parameter degeneracy problem in T2K experiment. The work are under a fine development for scientific publication (preliminary results presented at 48th Vietnam Conference on Theoretical Physics). 
 
-On the other hand, I'm also investigating data analysis of neutrino emulsion to study how to set-up an experiment at lower cost. 
+My interest extends to leveraging distributed data storage and processing technologies, including Hadoop, Spark, and ElasticSearch, to enhance the analysis and interpretation of large-scale physics datasets.
+
+
 
 
 Professional Experience
 ======
 
-- Analysed software requirement specification, and test case creation 
+- Analysed software requirement specification, test case creation and Perform L2 investigative to troubleshoot issues before escalation to the engineering team 
 
 - Prepare test data, performed test case creation and execution, tracking and reporting bugs
 
-- Experienced to end-to-end automation based on manual test cases using Selenium (Cucumber, BDD, model), Tosca Tricentis and Postman. 
+- Experienced to end-to-end automation and performance based on manual test cases using Selenium (Cucumber, BDD, model), Postman, Tosca Tricentis and Neoload. 
 
-- Experienced Performance Testing using Neoload and Tosca Tricentis. 
+- Collaborate with the existing QA members to set automation standards and best practices within the team (BDD, Git, CI/CD, deployment ...) for software projects in accordance with the Agile and Waterfall. 
 
-- Collaborate with the existing QA members to set automation standards and best practices within the team (BDD, Git, CI/CD, ...) 
-
-- Have been working with the project in accordance with the Agile and Waterfall. 
 
 
 Award and Certificate 

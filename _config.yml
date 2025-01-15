@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-VN"
-title                    : "HienNguyen's Homepage"
+title                    : "Hien's Portfolio"
 title_separator          : "-"
 name                     : &name "Nguyen Thi Hien"
 description              : &description "personal description"
@@ -82,39 +82,38 @@ analytics:
 author:
   name             : "Nguyen Thi Hien"
   avatar           : "Myface.png"
-  bio              : "Astroparticle Researcher"
+  bio              : "Graduate student in Space Science and Satellite Technology interested in software architecture"
   location         : "Ha Noi, Vietnam"
-  employer         : ICISE
-  pubmed           : 
-  googlescholar    : 
+  employer         : Hola Park
+  # pubmed           : 
+  # googlescholar    : 
   email            : "hiennt.bi11-077@st.usth.edu.vn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
   github           : "Jainy01"
-  google_plus      :
-  keybase          :
-  instagram        :
+  # google_plus      :
+  # keybase          :
+  # instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hiền-nguyễn-568388216"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
+  # orcid            : 
+  # pinterest        :
+  # soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # tumblr           :
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files

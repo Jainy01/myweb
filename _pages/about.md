@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
- 📊 I'm a final year undergraduate student at University of Science and Technology of Ha Noi. 
+📊 I'm currently a full-stack quality engineer in a software developement team. 
 
-📦 My research experience are in Neutrino Phenomenology and Molecular Cloud
+📦 My research experience are in Neutrino Phenomenology and Machine Learning
 
 👩🏻‍💻 I'm currently applying for Master's Program in High Computing Physics and Computer Science. 
-
-🏅 I'm also interested in assisting others on their path in the world of Machine Learning and academia. 
 
 
 
 Research (for public)
 ======
-![Illustration of my interest](/images/HE-Neutrinos.png)
+# ![Illustration of my interest](/images/HE-Neutrinos.png)
 
 ------
 
@@ -31,26 +29,39 @@ Most of my work has been working on the three neutrinos framework, focusing para
 On the other hand, I'm also investigating data analysis of neutrino emulsion to study how to set-up an experiment at lower cost. 
 
 
-Selected Experience
+Professional Experience
 ======
-1. Research Assistant in SJTU 
-2. Intern in Neutrino Group - IFIRSE/ICISE 
+
+- Analysed software requirement specification, and test case creation 
+
+- Prepare test data, performed test case creation and execution, tracking and reporting bugs
+
+- Experienced to end-to-end automation based on manual test cases using Selenium (Cucumber, BDD, model), Tosca Tricentis and Postman. 
+
+- Experienced Performance Testing using Neoload and Tosca Tricentis. 
+
+- Collaborate with the existing QA members to set automation standards and best practices within the team (BDD, Git, CI/CD, ...) 
+
+- Have been working with the project in accordance with the Agile and Waterfall. 
 
 
-Favorite Course
-------
-Project Management 
-XYZ
+Award and Certificate 
+======
+- Particle Physics: Poster Presented - 48th Vietnam Conference on Theoretical Physics 
 
-Climate Modeling 
+- Machine Learning: AI Vietnam – AI All In One 2024 
 
-Astrophysics 
+- Quality Assurance: ISTQB - Certified Tester Advanced Level Test Management 
 
-  Neutrino Emulsion 
- Electronics
- Machine Learning
+- Languages: IELTS 6.5 (2022), DELF A2 (2024)  
 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+My Favorite
+======
+- Course: Statistic and Data Visualization, Software Architecture, Nuclear Engineer  
+
+- Activity: Languages Teaching, Cocktail and Jazz, Motor Racing, Cleaning 
+
+- Food: Bun Cha, Ramen, (Fried) Spring Roll, Banh Cuon, Egg Fried Rice 
+
+- Senior: Dr.Son Cao – IFIRSE/ICISE (my supervisor), Mr. Asanka Edirisinghe – NCS (my colleague)

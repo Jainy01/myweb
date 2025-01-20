@@ -106,7 +106,7 @@ Talks
 
 Teaching
 ======
-I do Math/English private tutoring in my spare time. During my Bsc time, I have 5 elementary, 2 secondary, 1 high school and 2 over 30 yrs old lady. 
+I do Math/English private tutoring in my spare time. For 4 years of my Bsc time, I have 5 elementary, 2 secondary, 1 high school and 2 over 30 yrs old.  
 
 
 Award and Certificate 

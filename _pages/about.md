@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Hien Nguyen"
+title: "Hello there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

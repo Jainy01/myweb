@@ -12,7 +12,7 @@ redirect_from:
 
 📦 My research experience are in Neutrino Phenomenology and Machine Learning
 
-👩🏻‍💻 I'm looking for Master's Program in High Computing Physics and Computer Science with fully-funded scholarship
+👩🏻‍💻 I'm looking for Master's Program in High Computing Physics and Computer Science with scholarship
 
 
 

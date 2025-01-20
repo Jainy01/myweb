@@ -11,37 +11,74 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Space Science and Satellite Technology, University of Science and Technology of Ha Noi
 
-Work experience
+Lab experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Research Assistant
+  * Space Lab - University of Science and Satellite Technology of Hanoi
+  * Duties included: Build an Allsky Camera
+  * Supervisor: Dr.Phan Thanh Hien
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Assistant
+  * Neutrino Lab - IFIRSE
+  * Duties included: Study the parameter degenaracy of neutrinos oscilation using T2K data
+  * Supervisor: Dr.Son Cao
+
+Professional experience
+======
+* Oct 2024: Software Test Analysis (IRAS/Singapore)
+  * Ensure users prep test cases within timeline. 
+
+  * Review test case (including golden flow and integration test scenarios) to ensure there is no gap with the requirements 
+
+  * Prepare test data, test entity, account provisioning using API or SQL commands. 
+
+  * Perform L2 investigative support using SQL to troubleshoot and diagnose issues before escalation to the engineering team 
+
+  * Collaborate with QE-Technical team build test automation and performance scripts using Tricentis Tosca and Postman. 
+
+  * Update the test cases in Azure DevOps and create test plans. 
+
+
+* Mar 2024: Automation Engineer (PETRONAS/Malaysia)
+  * Ensure users prep test cases within timeline. 
+
+  * Review test case (including golden flow and integration test scenarios) to ensure there is no gap with the requirements 
+
+  * Prepare test data, test entity, account provisioning using API or SQL commands. 
+
+  * Perform L2 investigative support using SQL to troubleshoot and diagnose issues before escalation to the engineering team 
+
+  * Collaborate with QE-Technical team build test automation and performance scripts using Tricentis Tosca and Postman. 
+
+  * Update the test cases in Azure DevOps and create test plans. 
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Monitoring: Streamlit, Prometheus, Grafana 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* ML Framework: Spark, Pytorch, Tensorflow, XGBoost, Scikit learn 
+
+* ML Serving Tool: Spark, Docker, 
+
+* Programming Languages: Java, Groovy, Python. 
+
+* Framework Used: TestNG, Selenium, Cucumber. 
+
+* Databases: SQL Server, DBeaver. 
+
+* Browsers: Microsoft Edge, Chrome. 
+
+* Tools: Visual Studio Code, Katalon, Postman, Tosca Tricentis, NeoLoad. 
+
+* CI/CD Pipeline/Release: Git, Azure Pipeline. 
+
+* Management tools: Azure DevOps, Microsoft Office. 
+
+* Language: Vietnamese (Native), English (C1+), French (A2+).
+
 Talks
 ======
   <ul>{% for post in site.talks %}

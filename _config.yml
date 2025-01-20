@@ -122,7 +122,7 @@ include:
   - _pages
   - files
 exclude:
-  - _pages/markdown.md
+  #- _pages/markdown.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -219,25 +219,25 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # _talks
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  _talks
   - scope:
       path: ""
       type: talks

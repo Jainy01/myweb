@@ -81,16 +81,14 @@ Skills
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+ 1. Double Beta-Decay - VSON6 
+ 2. Parameter Degeneracy of the neutrinos oscillation using T2K data - Department of Space Science and Satellite Technology
+ 3. Neutrino Detector - PPSEA 7th
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+I do Math/English private tutoring in my spare time. During my Bsc time, I have 5 elementary, 2 secondary, 1 high school and 2 over 30 yrs old lady. 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Soon coming

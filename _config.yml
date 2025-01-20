@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-VN"
-title                    : "Hien's Portfolio"
+title                    : "Data Driven Discoveries"
 title_separator          : "-"
 name                     : &name "Nguyen Thi Hien"
 description              : &description "personal description"

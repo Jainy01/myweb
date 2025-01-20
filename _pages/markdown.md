@@ -1,11 +1,13 @@
----
+
 permalink: /markdown/
 title: "Markdown"
-author_profile: true
+author_profile: true 
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+<!-- ---
 
 ## Locations of key files/directories
 
@@ -199,4 +201,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->

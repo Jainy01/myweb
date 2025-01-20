@@ -29,19 +29,84 @@ Most of my work has been working on the three neutrinos framework, focusing para
 My interest extends to leveraging distributed data storage and processing technologies, including Hadoop, Spark, and ElasticSearch, to enhance the analysis and interpretation of large-scale physics datasets.
 
 
+* Summer 2022: Lab Intern
+  * Space Lab - University of Science and Satellite Technology of Hanoi
+  * Duties included: Build an Allsky Camera
+  * Supervisor: Dr.Phan Thanh Hien
 
+* Summer 2023: Lab Intern
+  * Neutrino Lab - IFIRSE
+  * Duties included: Study the parameter degenaracy of neutrinos oscilation using T2K data
+  * Supervisor: Dr.Son Cao
 
 Professional Experience
 ======
 
-- Analysed software requirement specification, test case creation and Perform L2 investigative to troubleshoot issues before escalation to the engineering team 
+Over the past year, I have contributed to software quality assurance by analyzing requirements, creating and executing test cases, and developing automation frameworks with tools like Selenium and Tosca. This experience has equipped me with a strong foundation in systematic problem-solving, a skill I now seek to apply to the critical field of nuclear research. 
 
-- Prepare test data, performed test case creation and execution, tracking and reporting bugs
+* Oct 2024: Software Test Analysis (IRAS/Singapore)
+  * Ensure users prep test cases within timeline. 
 
-- Experienced to end-to-end automation and performance based on manual test cases using Selenium (Cucumber, BDD, model), Postman, Tosca Tricentis and Neoload. 
+  * Review test case (including golden flow and integration test scenarios) to ensure there is no gap with the requirements 
 
-- Collaborate with the existing QA members to set automation standards and best practices within the team (BDD, Git, CI/CD, deployment ...) for software projects in accordance with the Agile and Waterfall. 
+  * Prepare test data, test entity, account provisioning using API or SQL commands. 
 
+  * Perform L2 investigative support using SQL to troubleshoot and diagnose issues before escalation to the engineering team 
+
+  * Collaborate with QE-Technical team build test automation and performance scripts using Tricentis Tosca and Postman. 
+
+  * Update the test cases in Azure DevOps and create test plans. 
+
+
+* Mar 2024: Automation Engineer (PETRONAS/Malaysia)
+  * Ensure users prep test cases within timeline. 
+
+  * Review test case (including golden flow and integration test scenarios) to ensure there is no gap with the requirements 
+
+  * Prepare test data, test entity, account provisioning using API or SQL commands. 
+
+  * Perform L2 investigative support using SQL to troubleshoot and diagnose issues before escalation to the engineering team 
+
+  * Collaborate with QE-Technical team build test automation and performance scripts using Tricentis Tosca and Postman. 
+
+  * Update the test cases in Azure DevOps and create test plans. 
+
+  
+Skills
+======
+* Programming Languages: Java, Python, Root (C++). 
+
+* Auto Framework Used: TestNG, Selenium, Cucumber. 
+
+* Simulation Tools: GLoBES
+
+* Monitoring: Streamlit, Prometheus, Grafana 
+
+* ML Framework: Spark, Pytorch, Tensorflow, XGBoost, Scikit learn.
+
+* ML Serving Tool: Spark, Docker.
+
+* Databases: SQL Server, DBeaver. 
+
+* Browsers: Microsoft Edge, Chrome. 
+
+* Tools: Visual Studio Code, Katalon, Postman, Tosca Tricentis, NeoLoad. 
+
+* CI/CD Pipeline/Release: Git, Azure Pipeline. 
+
+* Management tools: Azure DevOps, Microsoft Office. 
+
+* Language: Vietnamese (Native), English (C1+), French (A2+).
+
+Talks
+======
+ 1. Double Beta-Decay - VSON6 
+ 2. Parameter Degeneracy of the neutrinos oscillation using T2K data - Department of Space Science and Satellite Technology
+ 3. Neutrino Detector - PPSEA 7th
+
+Teaching
+======
+I do Math/English private tutoring in my spare time. During my Bsc time, I have 5 elementary, 2 secondary, 1 high school and 2 over 30 yrs old lady. 
 
 
 Award and Certificate 
@@ -64,3 +129,21 @@ My Favorite
 - Food: Bun Cha, Ramen, (Fried) Spring Roll, Banh Cuon, Egg Fried Rice 
 
 - Senior: Dr.Son Cao – IFIRSE/ICISE (my supervisor), Mr. Asanka Edirisinghe – NCS (my colleague)
+
+Publication
+======
+Soon coming
+
+
+Service and Leadership
+======
+Soon coming
+
+
+
+
+
+
+
+
+
